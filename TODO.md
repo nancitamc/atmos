@@ -9,12 +9,12 @@
 
 ## Documento y anexos
 
-- [x] Página 2 muestra Recomendaciones.
-- [x] Página 3 muestra Diagnóstico.
+- [x] Página 2 recrea Recomendaciones como espacios editables antes/después del servicio.
+- [x] Página 3 recrea Diagnóstico como tabla editable y campos de procedimiento.
 - [x] Página 4 muestra la certificación de la Secretaría de Salud.
 - [x] El formulario permite adjuntar PDF, imágenes u otros archivos al final del documento.
 
 ## Reporte final
 
-- [x] El estado de edición muestra inputs, controles y acciones.
-- [x] Imprimir/descargar PDF produce un reporte de solo lectura, ocultando inputs vacíos, casillas sin marcar y controles de edición.
+- [x] El estado de edición muestra inputs, controles y acciones en todas las páginas editables.
+- [x] Imprimir/descargar PDF produce un reporte de solo lectura, ocultando inputs vacíos, casillas sin marcar —incluidas las de diagnóstico— y controles de edición.
